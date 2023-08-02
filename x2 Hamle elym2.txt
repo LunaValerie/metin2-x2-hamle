@@ -1,0 +1,24 @@
+// Savascı
+Hamle > 528058120
+3 Yönlü > 528057120
+
+Ruh Vurusu > 528054320
+Siddetli Vurus > 528057520
+
+// Sura
+Ates Hayaleti > 608285200
+Parmak Darbesi > 608288000
+
+
+469954528
+
+
+
+x2 Hamle Bulunumu
+
+Cheat Engine üzerinden String'e gelip
+ComboAttack Aratınız sag tarafdan adrese
+Tıklayıp
+mov ecx[metin2client.bin045566] // adresine find atarak oyunda 1 kere vurun 
+yukardaki degerler de aynı adresden alınmaktadır
+Sekmeme yada diger seyler icin gerekli adres
